@@ -65,13 +65,6 @@ My work centers on enabling AI models to run efficiently, reliably, and safely o
 
 ---
 
-## 📊 GitHub Stats
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulAloth&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAloth&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/rahulalothrajan" target="_blank">
