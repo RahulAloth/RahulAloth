@@ -51,23 +51,17 @@ NVIDIA Jetson (Nano/Xavier/Orin) • DRIVE platforms • RKNN • Hailo NPU • 
 ---
 
 ## 🏆 Vision & Mission
-My long‑term goal is to become a **global leader in AI inference engineering** —  
-the engineer who can take any AI model and make it run **faster, smaller, cheaper, and real‑time** on any hardware.
+I am building deep expertise in **AI inference engineering and edge AI systems**, with a long‑term mission to become a global authority in deploying high‑performance, real‑time AI on embedded hardware.
 
-I focus on **global markets**:
+I focus on solving real‑world problems across global industries:
 
-- Robotics
-- Industrial AI
-- Medical devices
-- Smart cameras & vision systems
-- Drones & autonomous robots
+- Robotics & autonomous systems  
+- Industrial AI and automation  
+- Medical devices & smart healthcare  
+- Smart cameras and vision systems  
+- Drones and intelligent edge devices  
 
----
-
-## 📊 GitHub Stats
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulAloth&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAloth&layout=compact&theme=tokyonight)
+My work centers on making AI models run **faster, smaller, more efficient, and real‑time** on any hardware platform.
 
 
 ---
