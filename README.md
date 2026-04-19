@@ -34,20 +34,62 @@ My background spans **Autonomous Driving**, **multi‑sensor perception** and me
 
 ## 💻 Tech Stack
 
-### 🧑‍💻 Languages  
-C • C++ • Python  
+### 🧑‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Embedded & Edge AI  
-TensorRT • CUDA • ONNX Runtime • Jetson • Orin • RKNN • Hailo • DeepX • ARM SoCs • Embedded Linux  
+---
 
-### 🤖 AI / ML / LLMs  
-PyTorch • TensorFlow • scikit‑learn • vLLM • DeepSpeed • LoRA • Quantization • Model Compression  
+### ⚙️ Embedded & Edge AI
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Orin](https://img.shields.io/badge/Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RKNN](https://img.shields.io/badge/RKNN-FF6F00?style=for-the-badge)
+![Hailo](https://img.shields.io/badge/Hailo_NPU-000000?style=for-the-badge)
+![DeepX](https://img.shields.io/badge/DeepX_NPU-1E88E5?style=for-the-badge)
+![ARM SoCs](https://img.shields.io/badge/ARM_SoCs-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 
-### 📦 Tools & Platforms  
-Docker • Git • GitLab CI • ROS/ROS2 • Anaconda • Ubuntu • NVIDIA Nsight • OpenCV • IPG CarMaker • MATLAB/Simulink  
+---
 
-### 🔧 Hardware  
-NVIDIA Jetson (Nano/Xavier/Orin) • DRIVE platforms • RKNN • Hailo NPU • Raspberry Pi • Custom SoCs  
+### 🤖 AI / ML / LLMs
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-007ACC?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-8E24AA?style=for-the-badge)
+![Quantization](https://img.shields.io/badge/Quantization-455A64?style=for-the-badge)
+![Model Compression](https://img.shields.io/badge/Model_Compression-263238?style=for-the-badge)
+
+---
+
+### 📦 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA_Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![IPG CarMaker](https://img.shields.io/badge/IPG_CarMaker-1976D2?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+---
+
+### 🔧 Hardware
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![DRIVE](https://img.shields.io/badge/NVIDIA_DRIVE-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RKNN](https://img.shields.io/badge/RKNN-FF6F00?style=for-the-badge)
+![Hailo NPU](https://img.shields.io/badge/Hailo_NPU-000000?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Custom SoCs](https://img.shields.io/badge/Custom_SoCs-455A64?style=for-the-badge)
 
 ---
 
