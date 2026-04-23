@@ -1,7 +1,7 @@
 # 🧑‍💻 Rahul Aloth Rajan
 
-# 🚀 AI Inference, Embedded Systems & Edge Computing Engineer  
-### High‑Performance AI • GPU Optimization • Real‑Time Robotics, Autonomous Systems & Intelligent Edge Devices
+# 🚀 AI Inference, Embedded & Edge Computing Engineer
+### HPC AI • GPU Optimization • Real‑Time Robotics, Autonomous Systems, UAVs & Intelligent Edge Devices
 
 I am an engineer specializing in **AI inference**, **embedded systems**, and **real‑time edge AI deployment**.  
 I build **high‑performance, low‑latency AI pipelines** that run efficiently on real hardware — Jetson, Orin, NPUs, RKNN, Hailo, and custom embedded platforms.
