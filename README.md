@@ -24,7 +24,7 @@ My background spans **Autonomous Driving**, **multi‑sensor perception** and me
 
 ## 🧠 Core Expertise
 - **AI inference engineering** — TensorRT, ONNX Runtime, CUDA, model optimization  
-- **Embedded systems** — C/C++, Linux, real‑time runtimes, low‑latency pipelines  
+- **Embedded systems** — C/C++, Rust, Linux, real‑time runtimes, low‑latency pipelines  
 - **Edge AI deployment** — Jetson, Orin, RKNN, Hailo, DeepX, NPUs  
 - **Real‑time perception** — multi‑camera, radar, Lidar, sensor fusion, autonomous systems  
 - **GPU acceleration** — CUDA kernels, memory optimization, parallelization  
