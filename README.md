@@ -38,8 +38,9 @@ My background spans **Autonomous Driving**, **multi‑sensor perception** and me
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-C7460A?style=for-the-badge&logo=Octave&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
+![LabVIEW](https://img.shields.io/badge/LabVIEW-009688?style=for-the-badge&logo=LabVIEW&logoColor=white)
 
 ---
 
